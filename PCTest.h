@@ -10,8 +10,6 @@ public:
 
 private:
 	int32 aaa;
-	bool	bCheck;		//aa
-	aaa;
-	
+	bool	bCheck;
 };
 
